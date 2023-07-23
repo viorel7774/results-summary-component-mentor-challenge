@@ -39,7 +39,7 @@ Desktop and mobile screenshot
 ### Links
 
 - Solution URL: [Github](https://github.com/viorel7774/results-summary-component-mentor-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Live](https://viorel7774.github.io/results-summary-component-mentor-challenge/)
 
 ## My process
 

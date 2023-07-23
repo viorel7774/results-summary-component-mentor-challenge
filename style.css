@@ -56,7 +56,7 @@ body {
     font-size: 3.2rem;
 }
 
-.circle h5 {
+.circle p {
     opacity: 0.6;
     font-size: 1rem;
 }
@@ -186,6 +186,10 @@ button:hover {
 
 @media (min-width:375px) {
     .container {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
         font-size: 1.2rem;
         margin: auto;
         width: 735px;
@@ -194,7 +198,6 @@ button:hover {
         border-bottom-left-radius: 25px;
         border-bottom-right-radius: 20px;
         border-top-left-radius: 25px;
-        margin-top: 4rem;
     }
     .top-left-container,
     .bottom-right-container {
